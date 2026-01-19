@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="./CSS/main.css">
+	<title>EZ-STORE !</title>
+	<link rel="icon" type="image/png" href="./img/logo.png">
+</head>
+<body>
+	<div class="impo">
+		<header>
+			<a href="#"><img src="./img/logo.png" alt="" id="logo"></a>
+			<a href="#"><b class="tt" style="text-shadow: 2px 1px #be13fb;">STORE</b></a>
+		</header>
+		<nav class="nv">
+			<div class="cnt">
+				<div class="clr"></div>
+				<div class="btx" style="">
+					<a href="about-us-1.html"><button class="ABOUT-US"><b>ABOUT-US</b></button></a>
+				</div>
+			</div>
+			<div class="cnt1">
+				<div class="clr"></div>
+				<div class="btx">
+					<a href="conn.html"><button class="sign-in"><b>&ensp;HOME</b></button></a>
+				</div>
+			</div>
+		</nav>
+		<main>
+			<article class="article">
+				<p class="title-border">🎮 - FREE DOWNLOAD</p>
+				<div class="image-holder">
+					<img src="./img/.jpg" alt=""><img src="./img/.jpg" alt="">
+				</div>
+				<p class="title-border">📝 Description / About the game</p>
+				<p class="Description"></p>
+				<p class="title-border">🎞 Trailer / Preview</p>
+				<iframe width="97.5%" height="455px" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				<p class="title-border">⚙ System requirements</p>
+                <p class="requirements-title" style="margin-top: 50px"> OS: </p><p class="requirements" style="margin-top: 50px">  </p><br>
+                <p class="requirements-title">CPU: </p><p class="requirements">  </p><br>
+                <p class="requirements-title">RAM: </p><p class="requirements">  </p><br>
+                <p class="requirements-title">GPU: </p><p class="requirements">  </p><br>
+                <p class="requirements-title">HDD: </p><p class="requirements">  </p><br><br><br><br><br><br>
+				<p class="title-border">📥 Download-Links</p>
+				<a href="" target="_blank"><button class="Download"> CLICK HERE </button></a>
+			</article>
+			
+
+
+			<aside>
+				<p class="title-border">Latest Releases & Updates 🔥</p><br>
+				<div class="Description-Box">
+					<img src="./img/fort.jpg" alt="" class="">
+					<a href="fort.html" class="Description-text">🎮 Fortnite</a>
+				</div><br>
+				<div class="Description-Box">
+					<img src="./img/csgo.jpg" alt="" class="">
+					<a href="csgo.html" class="Description-text">🎮 Counter Strike</a>
+				</div><br>
+				<div class="Description-Box">
+					<img src="./img/pubg.jpg" alt="" class="">
+					<a href="pubg.html" class="Description-text">🎮 Pubg</a>
+				</div><br>
+				<div class="Description-Box">
+					<img src="./img/gta.jpg" alt="" class="">
+					<a href="gta.html" class="Description-text">🎮 GTA Ⅴ</a>
+				</div><br>
+				<div class="Description-Box">
+					<img src="./img/among.jpg" alt="" class="">
+					<a href="among.html" class="Description-text">🎮 Among us</a>
+				</div><br>
+				<div class="Description-Box">
+					<img src="./img/fifa.jpg" alt="" class="">
+					<a href="fifa.html" class="Description-text">🎮 Fifa 20</a>
+				</div><br>
+				<div class="Description-Box">
+					<img src="./img/pes.jpg" alt="" class="">
+					<a href="pes.html" class="Description-text">🎮 Pes 2021</a>
+				</div><br>
+				<div class="Description-Box">
+					<img src="./img/mine.jpg" alt="" class="">
+					<a href="mine.html" class="Description-text">🎮 Minecraft</a>
+				</div><br>
+				<div class="Description-Box">
+					<img src="./img/ro.jpg" alt="" class="">
+					<a href="ro.html" class="Description-text">🎮 Rocket League</a>
+				</div><br>
+				<div class="Description-Box">
+					<img src="./img/osu.png" alt="" class="">
+					<a href="osu.html" class="Description-text">🎮 Osu</a>
+				</div><br>
+				<p class="title-border">Social Media ✨</p><br>
+				<a href="https://www.facebook.com/mohamed.khayati.04/" target="_blank">
+					<div class="creator-sm">
+						<div id="fb" style="margin-left: 50px"></div>
+						<b class="Creators">🎮 Mohamed</b>
+					</div></a>
+				<a href="https://www.facebook.com/boughnimi.skander" target="_blank">
+					<div class="creator-sm">
+						<div id="fb" style="margin-left: 50px"></div>
+						<b class="Creators">🎮 Skander</b>
+					</div></a>
+				<a href="https://www.facebook.com/feres.aissaoui" target="_blank">
+					<div class="creator-sm">
+						<div id="fb" style="margin-left: 50px"></div>
+						<b class="Creators">🎮 Feres</b>
+					</div></a>
+				<a href="https://www.facebook.com/profile.php?id=100009631564267" target="_blank">
+					<div class="creator-sm">
+						<div id="fb" style="margin-left: 50px"></div>
+						<b class="Creators">🎮 Yasser</b>
+					</div></a><br>
+						
+					
+			</aside>
+		</main>
+		<div class="footer" style="margin-top: 5%">
+			<div id="taswira">
+				<img src="./img/logo.png" id="footlogo">
+			</div>
+			<div>
+				<b class="b4">--- Conatact us ---</b><br>
+				<a href="https://www.facebook.com/EZ-STORE-105714678583757" target="_blank"><div id="fb" style="margin-left: 38.9%"></div></a>
+				<a href="https://www.instagram.com/ez_store_official/" target="_blank"><div id="gr"></div></a>
+				<a href="https://twitter.com/EZ_STORE_Ofc" target="_blank"><div id="tw"></div></a>
+				<a href="https://wa.me/qr/GSJXRUBPJHORP1" target="_blank"><div id="wa"></div></a>
+			</div>
+			<div>
+				<p id="Copyright">Copyright ©2021, All rights reserved.</p>
+			</div>
+			</div>
+	</div>
+</body>
+</html>
